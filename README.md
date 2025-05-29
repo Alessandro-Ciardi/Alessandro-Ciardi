@@ -1,4 +1,4 @@
-👋Hi, I'm Ciardi Alessandro and I'm 18 years old
+👋Hi, I'm Ciardi Alessandro and I'm 18 years old,
 I am a student at the itis ettore majorana high school
 
 ### I'm currently learning 👨‍🏫...
