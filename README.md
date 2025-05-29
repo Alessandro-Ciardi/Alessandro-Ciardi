@@ -23,5 +23,3 @@
 - *🏍️ Ride my motorcycle and explore new places*
 - * Listen to music*
 - *🍿 Watch movies*
-
----
