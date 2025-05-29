@@ -1,12 +1,16 @@
-👋Hi, I'm Ciardi Alessandro
-I am a high school student
+👋Hi, I'm Ciardi Alessandro and I'm 18 years old
+I am a student at the itis ettore majorana high school
 
-### I'm currently learning
+### I'm currently learning...
 
--Computer Scienze
+-computer Scienze
 -C#
 -JavaScript
--Web Development
+-web Development
 
+### In my free time I like...
 
+-listen to music
+-play video games
+-watch movies and tv series
 
