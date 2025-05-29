@@ -1,25 +1,20 @@
-# **👋 Hi, I'm Alessandro Ciardi**
+# ** 👋 Hi, I'm Alessandro Ciardi **
 
-## **📖 Someting about Me**
-*I am a italian student learning programming and software development. I enjoy solving problems 🧩 and building small projects 🛠️ to practice my skills.*
+## ** 🙋‍♂️ Someting about Me **
+* I am 18 years old and I am an Italian student at the Itis Ettore Majorana high school *
 
-## **💻 Skills**
-- *🐍 Programming languages: C#, C, Python*
-- *📄 Web basics: HTML, CSS, JavaScript*
-- *🧰 Tools: Git Hub, Visual Studio Code, Visual Studio 2022*
+## ** 👨‍💻 Skills **
+- * 💻 Programming languages: C#, C, Python*
+- * 📄 Web basics: JavaScript, HTML, CSS*
 
-## **🎓 What I'm Learning**
-- * Computer scienze
-- *🌐 Introduction to web development (HTML, CSS, JavaScript)*
-- *📊 Fundamentals of algorithms and data structures*
+## ** 👨‍🎓🌐 What I'm Learning **
+- * Computer scienze *
+- * C# *
+- * HTML *
+- * CSS *
+- * JavaScript *
 
-## **🎯 My Goals**
-- *📈 Improve my programming skills*
-- *🌍 Build real-world projects, which means creating applications and programs that people can use in everyday life*
-- *🤝 Contribute to open source in the future*
-
-## **⏰ In my free time, I like to:**
-- *👫 Hang out with friends*
-- *🏍️ Ride my motorcycle and explore new places*
-- * Listen to music*
-- *🍿 Watch movies*
+## ** ⏳ In my free time i like to: **
+- * 🎶 Listen to music*
+- * 🎮 Play video games*
+- * 🍿 Watch movies and tv series*
