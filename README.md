@@ -7,14 +7,14 @@
 - *💻 Programming languages: C#, C, Python*
 - *📄 Web basics: JavaScript, HTML, CSS*
 
-## **👨‍🎓🌐 What I'm Learning**
+## **👨‍🎓🌐 I'm Learning...**
 - *Computer scienze*
 - *C#*
 - *HTML*
 - *CSS*
 - *JavaScript*
 
-## **⏳ In my free time i like to:**
+## **⏳ In my free time i like to...**
 - *🎶 Listen to music*
 - *🎮 Play video games*
 - *🍿 Watch movies and tv series*
