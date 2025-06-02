@@ -1,7 +1,7 @@
 # **👋 Hi, I'm Alessandro Ciardi**
 
 ## **🙋‍♂️ Someting about Me**
-*I am 18 years old and I am an Italian student at the Itis Ettore Majorana high school*
+*I am 18 years old and I am an Italian student at the ITI E. Majorana high school*
 
 ## **👨‍💻 Skills**
 - *💻 Programming languages: C#, C, Python*
