@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Alessandro Ciardi**
+# **👋 Computer scienze student at ITI E. Majorana high school**
 
 ## **🙋‍♂️ Someting about Me**
 *I am 18 years old and I am an Italian student at the ITI E. Majorana high school*
