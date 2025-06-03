@@ -1,4 +1,4 @@
-# **👋 Alessandro Ciardi | Computer scienze student at ITI E. Majorana high school**
+# **👋 Alessandro Ciardi | Computer scienze student at ITI E. Majorana high school | C#, HTML, CSS, JavaScript**
 
 ## **🙋‍♂️ Someting about Me**
 *I'm Alessandro Ciardi, I am 18 years old and I am an Italian student at the ITI E. Majorana high school*
